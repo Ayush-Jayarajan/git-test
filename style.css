@@ -1,0 +1,16 @@
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.col1{
+    height: 200px;
+    width: 20%;
+    background-color: blueviolet;
+}
+
+.col2{
+    height: 200px;
+    width: 20%;
+    background-color: brown;
+}
